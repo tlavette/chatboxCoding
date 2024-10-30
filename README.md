@@ -19,4 +19,11 @@ Included: <br>
 Included:
   * AI Application Electric Quote demo:  https://youtu.be/LIKOfP8pGFo
   
-  
+The original YouTube video contained the second chatbot completed (Calculator).  I created 2 for this assignment and turned in Electric Quote. <br>
+See Chatbot attached. <br>
+
+
+
+![image](https://github.com/user-attachments/assets/19990b86-4c61-4201-8e5a-c1f3ad21a44c)
+
+
